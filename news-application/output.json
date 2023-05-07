@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By <a href=\"/profiles/mark-thompson\">Mark Thompson</a> and <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, CNN",
+      "title": "The latest on the Silicon Valley Bank collapse: Live updates - CNN",
+      "description": "US and UK authorities are taking action to prevent wider financial chaos after the collapse of Silicon Valley Bank — the biggest failure of a US bank since 2008. Follow here for live updates.",
+      "url": "https://www.cnn.com/business/live-news/silicon-valley-bank-collapse-updates-03-13-23/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230313114601-svb-0310-super-tease.jpg",
+      "publishedAt": "2023-03-13T16:33:00Z",
+      "content": "The Biden administration scrambled this weekend to restore confidence in the US banking system after the collapse of Silicon Valley Bank and Signature Bank.\r\nBut investors signaled in Monday trading … [+2429 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WMUR Manchester" },
+      "author": "Kevin Skarupa",
+      "title": "At least 12 inches of heavy, wet snow possible in parts of New Hampshire; gusty winds also a concern - WMUR Manchester",
+      "description": "A long-duration nor'easter will move into the region Monday evening and will bring heavy snow and strong winds for the first half of the workweek.",
+      "url": "https://www.wmur.com/article/new-hampshire-snow-noreaster-weather-forecast-313/43292966",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/snow-map-313-1678706394.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2023-03-13T16:26:00Z",
+      "content": "MANCHESTER, N.H. —A long-duration nor'easter will move into the region Monday evening and will bring heavy snow and strong winds for the first half of the workweek.\r\nA winter storm warning has been p… [+2265 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Michael R. Sisak",
+      "title": "Cohen to testify before grand jury in Trump hush money probe - The Associated Press - en Español",
+      "description": "NEW YORK (AP) — Donald Trump’s former lawyer and fixer Michael Cohen is expected to testify Monday before a Manhattan grand jury investigating hush money payments he arranged and made  on the former president’s behalf.",
+      "url": "https://apnews.com/article/trump-grand-jury-hush-money-stormy-daniels-fb5c515d90c607d8e954431e271f9e16",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/98b86d37453c465a8b31912f79e9c8cb/3000.webp",
+      "publishedAt": "2023-03-13T16:18:21Z",
+      "content": "NEW YORK (AP) Donald Trumps former lawyer and fixer Michael Cohen is expected to testify Monday before a Manhattan grand jury investigating hush money payments he arranged and made on the former pres… [+5153 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBC 5 Dallas-Fort Worth" },
+      "author": "Hannah Jones",
+      "title": "4 Killed in Overnight Shooting at Northwest Dallas Apartment Complex - NBC 5 Dallas-Fort Worth",
+      "description": "The investigation into the North Texas shooting is ongoing.",
+      "url": "https://www.nbcdfw.com/news/local/4-killed-in-overnight-shooting-at-northwest-dallas-apartment-complex/3212981/",
+      "urlToImage": "https://media.nbcdfw.com/2020/11/Dallas-Police-Car-Flashing-Lights.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2023-03-13T16:10:48Z",
+      "content": "Four people are dead after a shooting on Sunday night in Northwest Dallas, police say. \r\nAccording to police, officers responded to the 3500 block of Villaverde Avenue shortly after 7 p.m. \r\nPolice s… [+903 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Michael Rothstein",
+      "title": "Source - Falcons acquire TE Jonnu Smith from Patriots for pick - ESPN",
+      "description": "The Patriots have traded tight end Jonnu Smith to the Falcons for a seventh-round draft pick, according to ESPN and multiple reports.",
+      "url": "https://www.espn.com/nfl/story/_/id/35850582/source-falcons-acquire-te-jonnu-smith-patriots-pick",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0313%2Fr1143842_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-03-13T15:47:58Z",
+      "content": "The Atlanta Falcons have traded a 2023 seventh-round pick (No. 245) to the New England Patriots for tight end Jonnu Smith, sources told ESPN on Monday, confirming multiple reports.\r\nSmith signed with… [+1683 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Mark Delaney",
+      "title": "Dead Island 2 Ditches The Open World, But Ramps Up The Gore - GameSpot",
+      "description": "After years in development hell, Dead Island 2 is looking better than you might assume, even as its scope seems to have been scaled down over the years.",
+      "url": "https://www.gamespot.com/articles/dead-island-2-ditches-the-open-world-but-ramps-up-the-gore/1100-6512175/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/4109599-yqp-qdww.jpeg",
+      "publishedAt": "2023-03-13T15:10:32Z",
+      "content": "It wasn't until two hours or so into my seven hours with Dead Island 2 when I finally understood that the linear nature of the game wasn't just part of the tutorial, and that Dambuster Studios' game … [+8450 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": null,
+      "title": "NCAA bracket predictions: College basketball model releases surprising March Madness 2023 tournament picks - CBS Sports",
+      "description": "SportsLine's model has nailed 18 double-digit seed upsets and simulated the 2023 NCAA bracket 10,000 times",
+      "url": "https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-college-basketball-model-releases-surprising-march-madness-2023-tournament-picks/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/13/e73e18ba-4811-4906-83cf-ac035bf60c4f/thumbnail/1200x675/2780a13b961f0960d8001b5c0ec8629c/tre-mitchell-west-virginia-mountaineers-usatsi.jpg",
+      "publishedAt": "2023-03-13T15:05:05Z",
+      "content": "The 2023 NCAA Tournament bracket will begin on Tuesday when No. 16 seed Southeast Missouri State faces No. 16 seed Texas A&amp;M-Corpus Christi in a First Four matchup in Dayton. The March Madness 20… [+4172 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandee LaMotte",
+      "title": "Poor sleep decreases vaccine effectiveness, especially for men - CNN",
+      "description": "Gettting a bad night's sleep decreases the body's antibody response to vaccines, a new study finds, especially for men.",
+      "url": "https://www.cnn.com/2023/03/13/health/sleep-vaccine-immunity-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220223125733-man-awake-in-bed-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-03-13T15:03:00Z",
+      "content": "Editors Note: Want to sleep better? During Sleep Awareness Week, sign up for CNNs Sleep, But Better newsletter series. Our seven-part guide has helpful hints to achieve better sleep.\r\nIf youre schedu… [+6121 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WPVI-TV" },
+      "author": null,
+      "title": "2023 Oscars winners: 'Everything Everywhere All At Once' dominates, with wins for Michelle Yeoh, Ke Huy Quan, Jamie Lee Curtis - 6abc Philadelphia - WPVI-TV",
+      "description": "Highlights included Lady Gaga's emotional performance, Brendon Fraser's moving win and host Jimmy Kimmel's jokes on \"the slap.\"",
+      "url": "https://6abc.com/2023-oscars-oscar-winners-everything-everywhere-all-at-once-michelle-yeoh/12920357/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12947954_oscarwinners.jpg?w=1600",
+      "publishedAt": "2023-03-13T14:26:15Z",
+      "content": "LOS ANGELES -- \"Everything Everywhere All At Once\" lived up to its title Sunday night at the Oscars, with the film taking home gold in seven out of 11 nominated categories, including best picture and… [+7270 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jenni Reid, Hannah Ward-Glenton, Holly Ellyatt",
+      "title": "European stocks fall 2.4%, banks slide 6% after HSBC rescues Silicon Valley Bank UK - CNBC",
+      "description": "European markets closed sharply lower Monday.",
+      "url": "https://www.cnbc.com/2023/03/13/european-markets-live-updates-news-silicon-valley-bank-fallout.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107207171-1678641456156-gettyimages-1472705600-vcg111426638258.jpeg?v=1678719223&w=1920&h=1080",
+      "publishedAt": "2023-03-13T14:23:00Z",
+      "content": "The fall of HSBC's share price following news it will buy Silicon Valley Bank's U.K. subsidiary for £1 ($1.21) is \"driven by profit-taking, not fundamental weakness,\" UBS analysts said in a note.\r\nHS… [+761 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Jennifer Hughes, Ortenca Aliaj, Brooke Masters, James Fontanella-Khan",
+      "title": "First Republic and other US regional banks tumble on fears of deposit flight - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/7b3214e9-aa2e-4d3a-8724-fe71bb8dd006",
+      "urlToImage": "https://liveindia.tv/wp-content/uploads/2023/03/Silicon-Valley-Bank.jpeg",
+      "publishedAt": "2023-03-13T14:12:44Z",
+      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/sarah-fielding-01",
+      "title": "The Apple Watch SE is cheaper than ever right now | Engadget - Engadget",
+      "description": "The Apple Watch SE is currently on sale for $219, down from its usual $249..",
+      "url": "https://www.engadget.com/the-apple-watch-se-is-cheaper-than-ever-right-now-140008239.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/bH2.RhSfL66RzkXrN.cbzA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/d88f4a20-c1a4-11ed-933f-fbc164076bd1.cf.jpg",
+      "publishedAt": "2023-03-13T14:01:51Z",
+      "content": "All products recommended by Engadget are selected by our editorial team, independent of our parent company. Some of our stories include affiliate links. If you buy something through one of these link… [+1311 chars]"
+    },
+    {
+      "source": { "id": null, "name": "InStyle" },
+      "author": "https://www.facebook.com/InStyle",
+      "title": "Rihanna Changed Into a Bump-Baring Cropped Faux Fur Stole at the Oscars - InStyle",
+      "description": "Her third and final look of the night.",
+      "url": "https://www.instyle.com/rihanna-bump-baring-cropped-faux-fur-stole-oscars-7254499",
+      "urlToImage": "https://www.instyle.com/thmb/nhbxuEVHyaWcY_QhUFD_RyO42Y8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rihanna-third-oscars-outfit-social-d485f5c0b8d04ba795637e24feaeaec2.jpg",
+      "publishedAt": "2023-03-13T13:28:34Z",
+      "content": "As if two outfits weren't enough, Rihanna changed into a third show-stopping look during the 2023 Oscars. \r\nAfter hitting the red carpet in a sheer black and leather bandeau dress from Alaïa, Ri chan… [+1290 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WESH Orlando" },
+      "author": "Associated Press",
+      "title": "President Biden tells US to have confidence in banks after collapse - WESH 2 Orlando",
+      "description": "U.S. regulators closed the Silicon Valley Bank on Friday after it experienced a traditional bank run, where depositors rushed to withdraw their funds all at once.",
+      "url": "https://www.wesh.com/article/president-biden-banks-collapse/43294309",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/6e47b0ed-d59e-4f2a-917b-f68d64e1896e/thumb_640x360_00001_1678713595_3047.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2023-03-13T13:27:00Z",
+      "content": "President Joe Biden on Monday told Americans the nations financial systems were safe, seeking to project calm following the swift and stunning collapse of two banks that prompted fears of a broader u… [+5797 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Ramon Antonio Vargas",
+      "title": "Three-year-old girl accidentally shoots sister, 4, dead in Texas - The Guardian US",
+      "description": "Girl killed sibling in family home with semi-automatic pistol but unclear if any of five adults present will face charges",
+      "url": "https://www.theguardian.com/us-news/2023/mar/13/three-year-old-girl-accidentally-shoots-sister-dead-texas",
+      "urlToImage": "https://i.guim.co.uk/img/media/cb7a7e3b2b1e8529340becea848fb1c7e1911e49/203_884_4003_2403/master/4003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5c4501954a312282ee6e424d484ccb3",
+      "publishedAt": "2023-03-13T13:26:00Z",
+      "content": "In a case that starkly illustrates the deadly consequences that the USs permissive gun culture has on the countrys youth, a three-year-old girl accidentally shot her four-year-old sister to death in … [+2780 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Chance Miller",
+      "title": "New health monitoring features powered by AirPods coming soon, 'Bloomberg' says - 9to5Mac",
+      "description": "Apple itself has acknowledged the health potential of AirPods, teasing that it’s an area in which it’s heavily investing. Now,...",
+      "url": "https://9to5mac.com/2023/03/13/airpods-health-features-coming-soon/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/airpods-pro-2-latency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2023-03-13T13:15:00Z",
+      "content": "Apple itself has acknowledged the health potential of AirPods, teasing that it’s an area in which it’s heavily investing. Now, Bloomberg reports that we can expect Apple to launch new health features… [+1839 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine war live updates: Kyiv claims over 1,000 Russians died in Bakhmut in the last week; Wagner mercenaries pivoting recruitment - CNBC",
+      "description": "Bakhmut remains the hot spot in the war between Ukraine and Russia, with the head of Ukraine's armed forces describing the situation in the city as \"difficult.\"",
+      "url": "https://www.cnbc.com/2023/03/13/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107206965-1678485650949-gettyimages-1247996194-AA_10032023_1104653.jpeg?v=1678695034&w=1920&h=1080",
+      "publishedAt": "2023-03-13T13:09:00Z",
+      "content": "Ukraine's President Volodymyr Zelenskyy said ongoing fighting in the besieged city of Bakhmut in eastern Ukraine is taking a big toll on Russia's forces.\r\nIn his nightly address Sunday, Zelenskyy sai… [+1407 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sports Illustrated" },
+      "author": "Albert Breer",
+      "title": "NFL Free Agency 2023: Who’s Going to Land the Big-Money Deals - Sports Illustrated",
+      "description": "Offensive and defensive linemen will cash in on the open market, while it figures to be tough going for running backs and wide receivers. And don’t forget about Jimmy Garoppolo and Lamar Jackson.",
+      "url": "https://www.si.com/nfl/2023/03/13/2023-nfl-free-agency-offensive-defensive-linemen-big-money-mmqb",
+      "urlToImage": "https://www.si.com/.image/t_share/MTk2MzY2MjY3OTY2MzAxODQy/kansas-city-chiefs-orlando-brown-free-agent.jpg",
+      "publishedAt": "2023-03-13T13:07:17Z",
+      "content": "More from Albert Breer: How the Daniel Jones Contract Negotiation Came Down to a Pinkie Swear Four Minutes Before the Deadline |Inside the Bears–Panthers Trade: Deal Was All About QBs for Both Teams … [+6153 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Anders Hagstrom",
+      "title": "Bitcoin spikes amid Silicon Valley Bank collapse - Fox Business",
+      "description": "Cryptocurrency got a boost of $70 billion and topped $1 trillion on Monday amid the downfall of Silicon Valley Bank, with Bitcoin alone spiking 10%.",
+      "url": "https://www.foxbusiness.com/markets/bitcoin-spikes-silicon-valley-bank-collapse",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/Bitcoin.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-13T12:32:32Z",
+      "content": "Bitcoin spiked 10% in early morning trading on Monday as the cryptocurrency market in general expanded amid the downfall of Silicon Valley Bank.\r\nBitcoin reached $22,560.20 at roughly 3 a.m. on Monda… [+2129 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "Gary Lineker, former English soccer star, to return to BBC show after tweets critical of UK government - Fox News",
+      "description": "Former English soccer star Gary Lineker will return to BBC's \"Match of the Day\" program after a row over a critical tweet of the U.K. government's migrant policy.",
+      "url": "https://www.foxnews.com/sports/gary-lineker-former-english-soccer-star-return-bbc-show-tweets-critical-uk-government",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Gary-Lineker4.jpg",
+      "publishedAt": "2023-03-13T12:12:00Z",
+      "content": "Gary Lineker will return as host of BBCs premier soccer program \"Match of the Day\" following the controversy over critical tweets of Britains new migration policy.\r\nThe BBC received immense backlash … [+2233 chars]"
+    }
+  ]
+}

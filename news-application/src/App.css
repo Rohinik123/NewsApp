@@ -1,0 +1,56 @@
+.headTitle {
+  display: flex;
+  background-color: #190303;
+  margin: 0;
+  left: 0;
+  right: 0;
+  justify-content: center;
+  text-align: center;
+  font-size: 35px;
+  color: #ffffff;
+  font-style: oblique;
+  border: 2px solid black;
+  margin-top: 50px;
+  padding: 5px;
+}
+
+#root {
+  background-color: #f6f1f1;
+}
+
+.card {
+  border: 2px solid black;
+}
+
+.btn {
+  border: 2px solid black;
+}
+
+.spn {
+  background-color: #4051bd;
+  color: #ffffff;
+  font-size: 13px;
+  border: 2px solid rgb(53, 81, 162);
+  border-radius: 1rem;
+  padding: 2px;
+}
+
+.auth {
+  font-size: smaller;
+}
+
+.bigg {
+  color: "blue";
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.n-about {
+  font-size: 20px;
+  background-color: rgb(246, 247, 248);
+  color:black;
+  display: inline-block;
+  box-shadow: #efd9d9;
+  box-sizing: border-box;
+  
+}
